@@ -1,4 +1,3 @@
---Ranger
 GRANT ALL PRIVILEGES ON `%`.* TO 'ranger'@'localhost' IDENTIFIED BY 'ranger';
 GRANT ALL PRIVILEGES ON `%`.* TO 'ranger'@'%' IDENTIFIED BY 'ranger';
 GRANT ALL PRIVILEGES ON `%`.* TO 'ranger'@'localhost' WITH GRANT OPTION;
